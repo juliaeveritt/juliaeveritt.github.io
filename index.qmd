@@ -2,4 +2,4 @@
 title: "Julia Everitt"
 ---
 
-
+Julia Everitt is a student in UBC's Master of Data Science program. 
